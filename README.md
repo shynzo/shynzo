@@ -10,7 +10,7 @@
 
 ## 🧰 Skills'n'Tools
 
-<p style="display: flex; justify-content: space-evenly; align-items: center;">
+<div style="display: flex; justify-content: space-evenly; align-items: center;">
   <img src="https://skillicons.dev/icons?i=react,next,tailwind,js,ts,python,django,flask,fastapi,vscode,cs,dotnet,docker,mysql,bash&perline=5" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynzo&layout=compact"/>
-</p>
+</div>
